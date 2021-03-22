@@ -15,3 +15,5 @@ It only does this because there is no publisher.
 On the pop up window click "More info" and then "Run".
 
 The installer will run you through the setup progress and you should see a "Cube Runner" app in your start menu.
+
+Use "a" and "d" to move.
